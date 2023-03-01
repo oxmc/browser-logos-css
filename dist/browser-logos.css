@@ -8,40 +8,40 @@
 */
 /* Chrome */
 /* Default size is 64 */
-i .browi .chrome {
+i.browi.chrome {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png");
 }
 
 /* Other sizes */
-i .browi .chrome-512 {
+i.browi.chrome-512 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_512x512.png");
 }
 
-i .browi .chrome-256 {
+i.browi.chrome-256 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_256x256.png");
 }
 
-i .browi .chrome-128 {
+i.browi.chrome-128 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_128x128.png");
 }
 
-i .browi .chrome-64 {
+i.browi.chrome-64 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png");
 }
 
-i .browi .chrome-48 {
+i.browi.chrome-48 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_48x48.png");
 }
 
-i .browi .chrome-32 {
+i.browi.chrome-32 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png");
 }
 
-i .browi .chrome-24 {
+i.browi.chrome-24 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_24x24.png");
 }
 
-i .browi .chrome-16 {
+i.browi.chrome-16 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_16x16.png");
 }
 
