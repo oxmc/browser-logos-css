@@ -1,14 +1,5 @@
-@use './base-vars.scss';
-/*
-*
-*  BROWSER-ICONS.CSS
-*
-*  Created by: oxmc
-*  Copyright (c) 2023-2024
-*
-*/
-
-/* Browsers */
-@use './chrome.scss';
-@use './chromium.scss';
-@use './brave.scss';
+@use 'base-vars.scss';
+@use 'header.css';
+@use 'chrome.scss';
+@use 'chromium.scss';
+@use 'brave.scss';
