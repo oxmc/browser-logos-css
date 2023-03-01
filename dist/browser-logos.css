@@ -39,6 +39,7 @@ i.browi .chrome-16 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_16x16.png");
 }
 
+/* Chromium */
 i.browi .chromium-512 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_512x512.png");
 }
@@ -71,6 +72,7 @@ i.browi .chromium-16 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_16x16.png");
 }
 
+/* Brave */
 i.browi .brave-512 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_512x512.png");
 }
