@@ -4,7 +4,7 @@ $browser: 'edge';
 
 $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 
-/* Chrome */
+/* #{$browser} */
 
 /* Default size is 32 */
 $size: "32";
