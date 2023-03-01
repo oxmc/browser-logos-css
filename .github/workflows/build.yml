@@ -1,0 +1,38 @@
+name: Build CSS
+on:
+  #push:
+  #  branches: [ "main" ]
+
+  #pull_request:
+  #  branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: {}
+
+jobs:
+  compile-scss:
+    runs-on: ubuntu-latest
+    env:
+        GITHUB_TOKEN: ${{ secrets.GHT }}
+    steps:
+    
+    - name: Checkout git repo
+      uses: actions/checkout@v2
+      
+    - name: Compile CSS from SCSS files
+      uses: gha-utilities/sass-build@v0.4.11
+      with:
+        source: './browser-logos.scss'
+        destination: './dist/browser-logos.css'
+    
+    - name: Auto Minify
+      uses: nizarmah/auto-minify@v2.1
+      with:
+        output: './dist'
+        directory: './dist/browser-logos.css'
+
+    - name: Auto committing minified files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Github Action: Auto Minified CSS"
+        branch: ${{ github.ref }}
