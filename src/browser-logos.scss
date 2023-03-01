@@ -1,22 +1,20 @@
-//rtl:15px
-
-#{"/*
+/*
 *
 *  BROWSER-ICONS.CSS
 *
 *  Created by: oxmc
 *  Copyright (c) 2023-2024
 *
-  */"};
+*/
 @use './base-vars.scss';
 
-#{"/* Browsers */"};
+/* Browsers
 
-#{"/* Chrome */"};
+/* Chrome
 @use './chrome.scss';
 
-#{"/* Chromium */"};
+/* Chromium
 @use './chromium.scss';
 
-#{"/* Brave */"};
+/* Brave
 @use './brave.scss';
