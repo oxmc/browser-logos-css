@@ -1,6 +1,4 @@
-$cdn: 'https://cdnjs.cloudflare.com/ajax/libs/browser-logos';
-$cdn-version: '73.0.0';
-$cdn-url: $cdn + "/" + $cdn-version;
+@use './base-vars.scss';
 
 $browser: 'chromium';
 
