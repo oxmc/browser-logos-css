@@ -22,7 +22,7 @@ jobs:
     - name: Compile CSS from SCSS files
       uses: gha-utilities/sass-build@v0.4.11
       with:
-        source: './browser-logos.scss'
+        source: './src/browser-logos.scss'
         destination: './dist/browser-logos.css'
     
     - name: Auto Minify
