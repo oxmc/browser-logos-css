@@ -4,6 +4,8 @@ $browser: 'brave';
 
 $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 
+/* Brave */
+
 i.browi .#{$browser}-512{
   background-image: url($url-path + '_512x512.png');
 }
