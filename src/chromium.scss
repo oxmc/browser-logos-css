@@ -6,6 +6,13 @@ $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 
 /* Chromium */
 
+/* Default size is 32 */
+$size: "32";
+i.browi.#{$browser}{
+  content: url($url-path + '_' + $size + 'x' + $size + '.png');
+}
+
+/* Other sizes */
 i.browi.#{$browser}-512{
   content: url($url-path + '_512x512.png');
 }
