@@ -6,34 +6,34 @@ $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 
 /* Brave */
 
-i.browi .#{$browser}-512{
-  background-image: url($url-path + '_512x512.png');
+i.browi.#{$browser}-512{
+  content: url($url-path + '_512x512.png');
 }
 
-i.browi .#{$browser}-256{
-  background-image: url($url-path + '_256x256.png');
+i.browi.#{$browser}-256{
+  content: url($url-path + '_256x256.png');
 }
 
-i.browi .#{$browser}-128{
-  background-image: url($url-path + '_128x128.png');
+i.browi.#{$browser}-128{
+  content: url($url-path + '_128x128.png');
 }
 
-i.browi .#{$browser}-64{
-  background-image: url($url-path + '_64x64.png');
+i.browi.#{$browser}-64{
+  content: url($url-path + '_64x64.png');
 }
 
-i.browi .#{$browser}-48{
-  background-image: url($url-path + '_48x48.png');
+i.browi.#{$browser}-48{
+  content: url($url-path + '_48x48.png');
 }
 
-i.browi .#{$browser}-32{
-  background-image: url($url-path + '_32x32.png');
+i.browi.#{$browser}-32{
+  content: url($url-path + '_32x32.png');
 }
 
-i.browi .#{$browser}-24{
-  background-image: url($url-path + '_24x24.png');
+i.browi.#{$browser}-24{
+  content: url($url-path + '_24x24.png');
 }
 
-i.browi .#{$browser}-16{
-  background-image: url($url-path + '_16x16.png');
+i.browi.#{$browser}-16{
+  content: url($url-path + '_16x16.png');
 }
