@@ -7,9 +7,9 @@
 *
 */
 /* Chrome */
-/* Default size is 64 */
+/* Default size is 32 */
 i.browi.chrome {
-  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png");
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png");
 }
 
 /* Other sizes */
@@ -46,6 +46,12 @@ i.browi.chrome-16 {
 }
 
 /* Chromium */
+/* Default size is 32 */
+i.browi.chromium {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_32x32.png");
+}
+
+/* Other sizes */
 i.browi.chromium-512 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_512x512.png");
 }
