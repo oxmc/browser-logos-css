@@ -7,35 +7,41 @@
 *
 */
 /* Chrome */
-i.browi .chrome-512 {
-  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_512x512.png");
-}
-
-i.browi .chrome-256 {
-  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_256x256.png");
-}
-
-i.browi .chrome-128 {
-  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_128x128.png");
-}
-
-i.browi .chrome-64 {
+/* Default size is 64 */
+i .browi .chrome {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png");
 }
 
-i.browi .chrome-48 {
+/* Other sizes */
+i .browi .chrome-512 {
+  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_512x512.png");
+}
+
+i .browi .chrome-256 {
+  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_256x256.png");
+}
+
+i .browi .chrome-128 {
+  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_128x128.png");
+}
+
+i .browi .chrome-64 {
+  background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png");
+}
+
+i .browi .chrome-48 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_48x48.png");
 }
 
-i.browi .chrome-32 {
+i .browi .chrome-32 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png");
 }
 
-i.browi .chrome-24 {
+i .browi .chrome-24 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_24x24.png");
 }
 
-i.browi .chrome-16 {
+i .browi .chrome-16 {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_16x16.png");
 }
 
