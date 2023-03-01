@@ -24,7 +24,7 @@ jobs:
       with:
         source: './src/browser-logos.scss'
         destination: './dist/browser-logos.css'
-        outputStyle: "nested"
+        outputStyle: 'expanded'
     
     - name: Auto Minify
       uses: nizarmah/auto-minify@v2.1
