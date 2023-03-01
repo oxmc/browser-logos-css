@@ -1,8 +1,8 @@
-@use './base-vars.scss';
+@use './base-vars';
 
 $browser: 'brave';
 
-$url-path: $cdn-url + "/" + $browser + "/" + $browser;
+$url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 
 i.browi .#{$browser}-512{
   background-image: url($url-path + '_512x512.png');
