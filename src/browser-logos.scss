@@ -1,3 +1,4 @@
+@use './base-vars.scss';
 /*
 *
 *  BROWSER-ICONS.CSS
@@ -6,15 +7,8 @@
 *  Copyright (c) 2023-2024
 *
 */
-@use './base-vars.scss';
 
 /* Browsers */
-
-/* Chrome */
 @use './chrome.scss';
-
-/* Chromium */
 @use './chromium.scss';
-
-/* Brave */
 @use './brave.scss';
