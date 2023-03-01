@@ -4,7 +4,7 @@ $browser: 'brave';
 
 $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 
-/* Brave */
+/* #{$browser} */
 
 /* Default size is 32 */
 $size: "32";
