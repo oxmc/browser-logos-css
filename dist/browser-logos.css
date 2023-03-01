@@ -85,6 +85,12 @@ i.browi.chromium-16 {
 }
 
 /* Brave */
+/* Default size is 32 */
+i.browi.brave {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_32x32.png");
+}
+
+/* Other sizes */
 i.browi.brave-512 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_512x512.png");
 }
