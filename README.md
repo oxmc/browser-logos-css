@@ -1,8 +1,9 @@
-# browser logos css
+<div align="center">
+  <h1>browser logos css<h1>
+  <img alt="browser logos example" src="./example/example.png" />
+</div>
 
-This project takes use of [Browser Logos][ogrepo]
-
-and adds css for website icons
+This project uses [Browser Logos][ogrepo] for the images and adds css for website icons
 
 Examples
 ----------------
@@ -20,10 +21,14 @@ Then use the ``i`` element with the class ``browi`` and your browser logo:
 <p>Microsoft edge</p><i class="browi edge"></i>
 ```
 
+Output:
+
+<img alt="browser logos example" src="./example/example-full.png" />
+
 Acknowledgements
 ----------------
 
-[Browser Logos][ogrepo] original project, by [alrra][ogcreator]
+[Browser Logos][ogrepo], by [alrra][ogcreator]
 
 Legal
 -----
