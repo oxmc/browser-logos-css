@@ -12,7 +12,7 @@ $additional-css: "vertical-align: middle; display: absolute;";
 $size: "32";
 i.browi.#{$browser}{
   content: url($url-path + '_' + $size + 'x' + $size + '.png');
-  #{$additional-css}
+  $additional-css;
 }
 
 /* Other sizes */
