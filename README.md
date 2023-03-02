@@ -1,6 +1,6 @@
 <div align="center">
   <h1>browser logos css<h1>
-  <img alt="browser logos example" src="./example/example.png" />
+  <img alt="browser logos example" src="./example/icons-all.png" />
 </div>
 
 This project uses [Browser Logos][ogrepo] for the images and adds css for website icons
