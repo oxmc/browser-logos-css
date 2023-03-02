@@ -1,0 +1,102 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>OS Detect</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/atom-one-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+  <style>
+    body {
+      background-color: #f0f0f2;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .bold {
+      font-size: 19px;
+      font-weight: bold;
+    }
+    .boldgreen {
+      color: green;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .divround {
+      width: 600px;
+      margin: 5em auto;
+      padding: 2em;
+      background-color: #fdfdff;
+      border-radius: 0.5em;
+      box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+    }
+    .centeredtext {
+      text-align: center;
+    }
+    .center {
+      position: fixed;
+      z-index: 99;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .hidden {
+      display:none;
+    }
+    
+    .notif {
+	  border-radius: 7px;
+      padding: 20px;
+      height: 50px;
+	}
+	.notif.warning {
+	  background:rgba(255,249,178,.9);
+	}
+	.notif.error {
+	  background:rgba(255,175,180,.9);
+	}
+	.notif.success {
+	  background: rgb(166, 239, 184);
+	}
+    
+    i.browi.chrome{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png)}i.browi.chrome-512{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_512x512.png)}i.browi.chrome-256{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_256x256.png)}i.browi.chrome-128{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_128x128.png)}i.browi.chrome-64{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png)}i.browi.chrome-48{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_48x48.png)}i.browi.chrome-32{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png)}i.browi.chrome-24{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_24x24.png)}i.browi.chrome-16{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_16x16.png)}i.browi.chromium{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_32x32.png)}i.browi.chromium-512{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_512x512.png)}i.browi.chromium-256{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_256x256.png)}i.browi.chromium-128{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_128x128.png)}i.browi.chromium-64{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_64x64.png)}i.browi.chromium-48{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_48x48.png)}i.browi.chromium-32{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_32x32.png)}i.browi.chromium-24{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_24x24.png)}i.browi.chromium-16{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_16x16.png)}i.browi.brave{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_32x32.png)}i.browi.brave-512{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_512x512.png)}i.browi.brave-256{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_256x256.png)}i.browi.brave-128{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_128x128.png)}i.browi.brave-64{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_64x64.png)}i.browi.brave-48{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_48x48.png)}i.browi.brave-32{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_32x32.png)}i.browi.brave-24{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_24x24.png)}i.browi.brave-16{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_16x16.png)}i.browi.edge{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png)}i.browi.edge-512{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_512x512.png)}i.browi.edge-256{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_256x256.png)}i.browi.edge-128{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_128x128.png)}i.browi.edge-64{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_64x64.png)}i.browi.edge-48{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_48x48.png)}i.browi.edge-32{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png)}i.browi.edge-24{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_24x24.png)}i.browi.edge-16{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_16x16.png)}i.browi.edge-old{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_32x32.png)}i.browi.edge-old-512{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_512x512.png)}i.browi.edge-old-256{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_256x256.png)}i.browi.edge-old-128{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_128x128.png)}i.browi.edge-old-64{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_64x64.png)}i.browi.edge-old-48{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_48x48.png)}i.browi.edge-old-32{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_32x32.png)}i.browi.edge-old-24{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_24x24.png)}i.browi.edge-old-16{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_12-18/edge_12-18_16x16.png)}i.browi.safari{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_32x32.png)}i.browi.safari-512{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_512x512.png)}i.browi.safari-256{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_256x256.png)}i.browi.safari-128{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_128x128.png)}i.browi.safari-64{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_64x64.png)}i.browi.safari-48{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_48x48.png)}i.browi.safari-32{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_32x32.png)}i.browi.safari-24{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_24x24.png)}i.browi.safari-16{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_16x16.png)}i.browi.firefox{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_32x32.png)}i.browi.firefox-512{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_512x512.png)}i.browi.firefox-256{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_256x256.png)}i.browi.firefox-128{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_128x128.png)}i.browi.firefox-64{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_64x64.png)}i.browi.firefox-48{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_48x48.png)}i.browi.firefox-32{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_32x32.png)}i.browi.firefox-24{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_24x24.png)}i.browi.firefox-16{content:url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_16x16.png)}
+  </style>
+</head>
+<body>
+  <div class="divround">
+	<div class="notif success" style="display: none;">
+	  <strong style="margin-right: 10px;">Browser Up to date!</strong>
+	  <p>Your using the latest browser!</p>
+	</div>
+    <div class="centeredtext">
+      <h2 class="boldgreen">Example:</h2>
+      <p class="bold"><i class="browi chrome-32" style="vertical-align: middle;
+  display: absolute;"></i> Chrome</p>
+  	<p class="bold"><i class="browi chromium-32" style="vertical-align: middle;
+  display: absolute;"></i> Chromium</p>
+  <p class="bold"><i class="browi edge-32" style="vertical-align: middle;
+  display: absolute;"></i> Edge</p>
+  <p class="bold"><i class="browi brave-32" style="vertical-align: middle;
+  display: absolute;"></i> Brave</p>
+  <p class="bold"><i class="browi firefox-32" style="vertical-align: middle; display: absolute;"></i> Firefox</p>
+  <h2 class="boldgreen">HTML:</h2>
+  <pre style="text-align:left;"><code class="language-html">
+  &lt;p>&lt;i class="browi chrome-32"&gt;&lt;/i&gt; Chrome&lt;/p&gt;
+  
+  &lt;p&gt;&lt;i class="browi chromium-32"&gt;&lt;/i&gt; Chromium&lt;/p&gt;
+  
+  &lt;p&gt;&lt;i class="browi edge-32"&gt;&lt;/i&gt; Edge&lt;/p&gt;
+  
+  &lt;p&gt;&lt;i class="browi brave-32"&gt;&lt;/i&gt; Brave&lt;/p&gt;
+  
+  &lt;p&gt;&lt;i class="browi firefox-32"&gt;&lt;/i&gt; Firefox&lt;/p&gt;
+  </code></pre>
+    </div>
+  </div>
+  <script>hljs.highlightAll();</script>
+</body>
+</html>
