@@ -3,7 +3,7 @@
 $browser: 'edge-old';
 $icon: 'edge_12-18';
 
-$url-path: base-vars.$cdn-url + "archive/" + $icon + "/" + $icon;
+$url-path: base-vars.$cdn-url + "/archive/" + $icon + "/" + $icon;
 
 /* #{$browser} */
 
