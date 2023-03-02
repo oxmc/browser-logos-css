@@ -11,7 +11,8 @@ $additional-css: "vertical-align: middle; display: absolute;";
 /* Default size is 32 */
 $size: "32";
 i.browi.#{$browser}{
-  content: url($url-path + '_' + $size + 'x' + $size + '.png'); #{$additional-css}
+  content: url($url-path + '_' + $size + 'x' + $size + '.png');
+  #{$additional-css}
 }
 
 /* Other sizes */
