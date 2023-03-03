@@ -296,3 +296,156 @@ i.browi.firefox-24 {
 i.browi.firefox-16 {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_16x16.png");
 }
+
+/* ie */
+/* Default size is 32 */
+i.browi.ie {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+/* Other sizes */
+i.browi.ie-512 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_512x512.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-256 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_256x256.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-128 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_128x128.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-64 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_64x64.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-48 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-32 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-24 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_24x24.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-16 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_16x16.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+/* ie-tile */
+/* Default size is 32 */
+i.browi.ie-tile {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+/* Other sizes */
+i.browi.ie-tile-512 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_512x512.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-tile-256 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_256x256.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-tile-128 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_128x128.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-tile-64 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_64x64.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-tile-48 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_48x48.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-tile-32 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-tile-24 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_24x24.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.ie-tile-16 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_16x16.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+/* netscape */
+/* Default size is 32 */
+i.browi.netscape {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_32x32.png");
+}
+
+/* Other sizes */
+i.browi.netscape-512 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_512x512.png");
+}
+
+i.browi.netscape-256 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_256x256.png");
+}
+
+i.browi.netscape-128 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_128x128.png");
+}
+
+i.browi.netscape-64 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_64x64.png");
+}
+
+i.browi.netscape-48 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_48x48.png");
+}
+
+i.browi.netscape-32 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_32x32.png");
+}
+
+i.browi.netscape-24 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_24x24.png");
+}
+
+i.browi.netscape-16 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_16x16.png");
+}
