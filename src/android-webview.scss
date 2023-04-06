@@ -10,40 +10,58 @@ $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 $size: "32";
 i.browi.#{$browser}{
   content: url($url-path + '_' + $size + 'x' + $size + '.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 /* Other sizes */
 
 i.browi.#{$browser}-512{
   content: url($url-path + '_512x512.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-256{
   content: url($url-path + '_256x256.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-128{
   content: url($url-path + '_128x128.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-64{
   content: url($url-path + '_64x64.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-48{
   content: url($url-path + '_48x48.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-32{
   content: url($url-path + '_32x32.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-24{
   content: url($url-path + '_24x24.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-16{
   content: url($url-path + '_16x16.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 $browser: 'android-webview-beta';
@@ -56,40 +74,58 @@ $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 $size: "32";
 i.browi.#{$browser}{
   content: url($url-path + '_' + $size + 'x' + $size + '.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 /* Other sizes */
 
 i.browi.#{$browser}-512{
   content: url($url-path + '_512x512.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-256{
   content: url($url-path + '_256x256.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-128{
   content: url($url-path + '_128x128.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-64{
   content: url($url-path + '_64x64.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-48{
   content: url($url-path + '_48x48.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-32{
   content: url($url-path + '_32x32.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-24{
   content: url($url-path + '_24x24.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-16{
   content: url($url-path + '_16x16.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 $browser: 'android-webview-dev';
@@ -102,40 +138,58 @@ $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 $size: "32";
 i.browi.#{$browser}{
   content: url($url-path + '_' + $size + 'x' + $size + '.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 /* Other sizes */
 
 i.browi.#{$browser}-512{
   content: url($url-path + '_512x512.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-256{
   content: url($url-path + '_256x256.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-128{
   content: url($url-path + '_128x128.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-64{
   content: url($url-path + '_64x64.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-48{
   content: url($url-path + '_48x48.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-32{
   content: url($url-path + '_32x32.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-24{
   content: url($url-path + '_24x24.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-16{
   content: url($url-path + '_16x16.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 $browser: 'android-webview-canary';
@@ -148,38 +202,56 @@ $url-path: base-vars.$cdn-url + "/" + $browser + "/" + $browser;
 $size: "32";
 i.browi.#{$browser}{
   content: url($url-path + '_' + $size + 'x' + $size + '.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 /* Other sizes */
 
 i.browi.#{$browser}-512{
   content: url($url-path + '_512x512.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-256{
   content: url($url-path + '_256x256.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-128{
   content: url($url-path + '_128x128.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-64{
   content: url($url-path + '_64x64.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-48{
   content: url($url-path + '_48x48.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-32{
   content: url($url-path + '_32x32.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-24{
   content: url($url-path + '_24x24.png');
+  vertical-align: middle;
+  display: absolute;
 }
 
 i.browi.#{$browser}-16{
   content: url($url-path + '_16x16.png');
+  vertical-align: middle;
+  display: absolute;
 }
