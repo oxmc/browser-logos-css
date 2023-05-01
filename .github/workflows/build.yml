@@ -22,7 +22,7 @@ jobs:
     - name: Compile CSS from SCSS files
       uses: gha-utilities/sass-build@v0.4.11
       with:
-        source: './src/browser-logos.scss'
+        source: './browser-logos.scss'
         destination: './dist/browser-logos.css'
         outputStyle: 'expanded'
     
