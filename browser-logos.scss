@@ -65,7 +65,7 @@ $browser-data: (
     
     @each $size in $icon-sizes {
         i.browi.#{$browser}-#{$size} {
-            content: url(#{$url-path}_#{$size}x#{$size}.png);
+            content: url('#{$url-path}_#{$size}x#{$size}.png');
             vertical-align: middle;
             display: absolute;
         }
