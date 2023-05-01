@@ -1,14 +1,47 @@
-@use 'base-vars.scss';
 @use 'header.css';
 
-@use 'chrome.scss';
-@use 'chromium.scss';
-@use 'android-webview';
-@use 'brave.scss';
-@use 'edge.scss';
-@use 'edge-old.scss';
-@use 'safari.scss';
-@use 'firefox.scss';
-@use 'internet-explorer.scss';
-@use 'internet-explorer-old.scss';
-@use 'netscape-navigator.scss';
+$cdn: 'https://cdnjs.cloudflare.com/ajax/libs/browser-logos';
+$cdn-version: '73.0.0';
+$cdn-url: $cdn + "/" + $cdn-version;
+
+@function generate-browser-icons($browser-data) {
+  $icon-sizes: (512, 256, 128, 64, 48, 32, 24, 16);
+
+  @each $browser, $data in $browser-data {
+    $url-path: $cdn-url + "/" + $data["iconpath"] + "/" + $browser;
+
+    i.browi.#{$browser} {
+      content: url($url-path + '_32x32.png');
+      vertical-align: middle;
+      display: absolute;
+    }
+
+    @each $size in $icon-sizes {
+      i.browi.#{$browser}-#{$size} {
+        content: url($url-path + '_#{$size}x#{$size}.png');
+        vertical-align: middle;
+        display: absolute;
+      }
+    }
+  }
+}
+
+// browser icons JSON:
+$browser-data: (
+  "chrome": ("name": "Chrome", "iconpath": "chrome"),
+  "chromium": ("name": "Chromium", "iconpath": "chromium"),
+  "android-webview": ("name": "Android WebView", "iconpath": "android-webview"),
+  "brave": ("name": "Brave", "iconpath": "brave"),
+  "edge": ("name": "Microsoft Edge", "iconpath": "edge"),
+  "edge-old": ("name": "Microsoft Edge (old)", "iconpath": "archive/edge_12-18"),
+  "safari": ("name": "Safari", "iconpath": "safari"),
+  "firefox": ("name": "Firefox", "iconpath": "firefox"),
+  "firefox-dev": ("name": "Firefox Dev", "iconpath": "firefox-dev"),
+  "firefox-beta": ("name": "Firefox Beta", "iconpath": "firefox-beta"),
+  "ie-tile": ("name": "Internet Explorer", "iconpath": "archive/internet-explorer_tile_10-11"),
+  "ie": ("name": "Internet Explorer (old)", "iconpath": "archive/internet-explorer_9-11"),
+  "netscape-navigator": ("name": "Netscape Navigator", "iconpath": "netscape-navigator")
+);
+
+// Generate browser icons:
+@include generate-browser-icons($browser-data);
