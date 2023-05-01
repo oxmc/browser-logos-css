@@ -1766,6 +1766,61 @@ i.browi.opera-gx-512 {
   display: absolute;
 }
 
+/*opera-dev*/
+i.browi.opera-dev {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-16 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_16x16.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-24 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_24x24.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-32 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-48 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_48x48.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-64 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_64x64.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-128 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_128x128.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-256 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_256x256.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.opera-dev-512 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_512x512.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
 /*opera-neon*/
 i.browi.opera-neon {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-neon/opera-neon_32x32.png");
