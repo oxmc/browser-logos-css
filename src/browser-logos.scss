@@ -1,47 +1,73 @@
-@use 'header.css';
+/*
+*
+*  BROWSER-ICONS.CSS
+*
+*  Created by: oxmc
+*  Copyright (c) 2023-2024
+*
+*/
 
 $cdn: 'https://cdnjs.cloudflare.com/ajax/libs/browser-logos';
 $cdn-version: '73.0.0';
 $cdn-url: $cdn + "/" + $cdn-version;
-
-@function generate-browser-icons($browser-data) {
-  $icon-sizes: (512, 256, 128, 64, 48, 32, 24, 16);
-
-  @each $browser, $data in $browser-data {
-    $url-path: $cdn-url + "/" + $data["iconpath"] + "/" + $browser;
-
-    i.browi.#{$browser} {
-      content: url($url-path + '_32x32.png');
-      vertical-align: middle;
-      display: absolute;
-    }
-
-    @each $size in $icon-sizes {
-      i.browi.#{$browser}-#{$size} {
-        content: url($url-path + '_#{$size}x#{$size}.png');
-        vertical-align: middle;
-        display: absolute;
-      }
-    }
-  }
-}
+$icon-sizes: (16, 24, 32, 48, 64, 128, 256, 512);
 
 // browser icons JSON:
 $browser-data: (
   "chrome": ("name": "Chrome", "iconpath": "chrome"),
+  "chrome-dev": ("name": "Chrome (Dev)", "iconpath": "chrome-dev"),
+  "chrome-beta": ("name": "Chrome (Beta)", "iconpath": "chrome-beta"),
+  "chrome-canary": ("name": "Chrome (Canary)", "iconpath": "chrome-canary"),
   "chromium": ("name": "Chromium", "iconpath": "chromium"),
   "android-webview": ("name": "Android WebView", "iconpath": "android-webview"),
+  "android-webview-dev": ("name": "Android WebView (Dev)", "iconpath": "android-webview-dev"),
+  "android-webview-beta": ("name": "Android WebView (Beta)", "iconpath": "android-webview-beta"),
+  "android-webview-canary": ("name": "Android WebView (Canary)", "iconpath": "android-webview-canary"),
   "brave": ("name": "Brave", "iconpath": "brave"),
+  "brave-dev": ("name": "Brave (Dev)", "iconpath": "brave-dev"),
+  "brave-beta": ("name": "Brave (Beta)", "iconpath": "brave-beta"),
+  "brave-canary": ("name": "Brave (Canary)", "iconpath": "brave-canary"),
   "edge": ("name": "Microsoft Edge", "iconpath": "edge"),
-  "edge-old": ("name": "Microsoft Edge (old)", "iconpath": "archive/edge_12-18"),
+  "edge-dev": ("name": "Microsoft Edge (Dev)", "iconpath": "edge-dev"),
+  "edge-beta": ("name": "Microsoft Edge (Beta)", "iconpath": "edge-beta"),
+  "edge-canary": ("name": "Microsoft Edge (Canary)", "iconpath": "edge-canary"),
+  "edge-old": ("name": "Microsoft Edge", "iconpath": "edge"),
+  "edge-old-tile": ("name": "Microsoft Edge (old, Tile)", "iconpath": "archive/edge_tile"),
   "safari": ("name": "Safari", "iconpath": "safari"),
+  "safari-new": ("name": "Safari (New)", "iconpath": "archive/safari_8-13"),
+  "safari-old": ("name": "Safari (Old)", "iconpath": "archive/safari_1-7"),
+  "safari-ios-old": ("name": "Safari (IOS, Old)", "iconpath": "archive/safari-ios_1-6"),
   "firefox": ("name": "Firefox", "iconpath": "firefox"),
-  "firefox-dev": ("name": "Firefox Dev", "iconpath": "firefox-dev"),
-  "firefox-beta": ("name": "Firefox Beta", "iconpath": "firefox-beta"),
+  "firefox-dev": ("name": "Firefox (Dev)", "iconpath": "firefox-dev"),
+  "firefox-beta": ("name": "Firefox (Beta)", "iconpath": "firefox-beta"),
+  "firefox-canary": ("name": "Firefox (Canary)", "iconpath": "firefox-canary"),
+  "ie": ("name": "Internet Explorer (Old)", "iconpath": "archive/internet-explorer_9-11"),
   "ie-tile": ("name": "Internet Explorer", "iconpath": "archive/internet-explorer_tile_10-11"),
-  "ie": ("name": "Internet Explorer (old)", "iconpath": "archive/internet-explorer_9-11"),
-  "netscape-navigator": ("name": "Netscape Navigator", "iconpath": "netscape-navigator")
+  "netscape-navigator": ("name": "Netscape Navigator", "iconpath": "archive/netscape_4-6", "uf": "true", "ufi": "netscape_4-6")
 );
 
-// Generate browser icons:
-@include generate-browser-icons($browser-data);
+@each $browser, $data in $browser-data {
+    $data: map-get($browser-data, $browser);
+    $icon-path: map-get($data, "iconpath");
+    
+    $url-path: "#{$cdn-url}/#{$icon-path}/#{$icon-path}";
+    
+    @if map-has-key($data, "uf") and map-get($data, "uf") == "true" {
+        $url-path: "#{$cdn-url}/#{$icon-path}/#{map-get($data, "ufi")}";
+    }
+    
+    /*#{$browser}*/
+    i.browi.#{$browser} {
+        content: url('#{$url-path}_32x32.png');
+        vertical-align: middle;
+        display: absolute;
+    }
+    
+    @each $size in $icon-sizes {
+        i.browi.#{$browser}-#{$size} {
+            content: url(#{$url-path}_#{$size}x#{$size}.png);
+            vertical-align: middle;
+            display: absolute;
+        }
+    }
+}
