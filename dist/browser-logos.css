@@ -14,49 +14,49 @@ i.browi.chrome {
 }
 
 i.browi.chrome-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -69,49 +69,49 @@ i.browi.chrome-dev {
 }
 
 i.browi.chrome-dev-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-dev-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-dev-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-dev-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-dev-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-dev-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-dev-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-dev-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -124,49 +124,49 @@ i.browi.chrome-beta {
 }
 
 i.browi.chrome-beta-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-beta-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-beta-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-beta-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-beta-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-beta-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-beta-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-beta-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -179,49 +179,49 @@ i.browi.chrome-canary {
 }
 
 i.browi.chrome-canary-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-canary-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-canary-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-canary-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-canary-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-canary-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-canary-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chrome-canary-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -234,49 +234,49 @@ i.browi.chromium {
 }
 
 i.browi.chromium-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chromium-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chromium-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chromium-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chromium-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chromium-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chromium-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.chromium-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -289,49 +289,49 @@ i.browi.android-webview {
 }
 
 i.browi.android-webview-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -344,49 +344,49 @@ i.browi.android-webview-dev {
 }
 
 i.browi.android-webview-dev-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-dev-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-dev-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-dev-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-dev-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-dev-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-dev-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-dev-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -399,49 +399,49 @@ i.browi.android-webview-beta {
 }
 
 i.browi.android-webview-beta-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-beta-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-beta-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-beta-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-beta-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-beta-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-beta-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-beta-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -454,49 +454,49 @@ i.browi.android-webview-canary {
 }
 
 i.browi.android-webview-canary-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-canary-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-canary-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-canary-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-canary-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-canary-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-canary-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.android-webview-canary-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -509,49 +509,49 @@ i.browi.brave {
 }
 
 i.browi.brave-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -564,49 +564,49 @@ i.browi.brave-dev {
 }
 
 i.browi.brave-dev-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-dev-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-dev-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-dev-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-dev-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-dev-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-dev-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-dev-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -619,49 +619,49 @@ i.browi.brave-beta {
 }
 
 i.browi.brave-beta-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-beta-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-beta-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-beta-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-beta-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-beta-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-beta-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-beta-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -674,49 +674,49 @@ i.browi.brave-canary {
 }
 
 i.browi.brave-canary-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-canary-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-canary-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-canary-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-canary-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-canary-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-canary-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.brave-canary-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -729,49 +729,49 @@ i.browi.edge {
 }
 
 i.browi.edge-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -784,49 +784,49 @@ i.browi.edge-dev {
 }
 
 i.browi.edge-dev-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-dev-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-dev-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-dev-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-dev-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-dev-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-dev-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-dev-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -839,49 +839,49 @@ i.browi.edge-beta {
 }
 
 i.browi.edge-beta-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-beta-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-beta-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-beta-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-beta-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-beta-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-beta-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-beta-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -894,49 +894,49 @@ i.browi.edge-canary {
 }
 
 i.browi.edge-canary-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-canary-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-canary-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-canary-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-canary-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-canary-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-canary-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-canary-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -949,49 +949,49 @@ i.browi.edge-old {
 }
 
 i.browi.edge-old-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1004,49 +1004,49 @@ i.browi.edge-old-tile {
 }
 
 i.browi.edge-old-tile-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-tile-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-tile-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-tile-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-tile-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-tile-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-tile-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.edge-old-tile-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge_tile/archive/edge_tile_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1059,49 +1059,49 @@ i.browi.safari {
 }
 
 i.browi.safari-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1114,49 +1114,49 @@ i.browi.safari-new {
 }
 
 i.browi.safari-new-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-new-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-new-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-new-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-new-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-new-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-new-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-new-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/archive/safari_8-13_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1169,49 +1169,49 @@ i.browi.safari-old {
 }
 
 i.browi.safari-old-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-old-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-old-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-old-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-old-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-old-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-old-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-old-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/archive/safari_1-7_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1224,49 +1224,49 @@ i.browi.safari-ios-old {
 }
 
 i.browi.safari-ios-old-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-ios-old-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-ios-old-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-ios-old-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-ios-old-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-ios-old-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-ios-old-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.safari-ios-old-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/archive/safari-ios_1-6_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1279,49 +1279,49 @@ i.browi.firefox {
 }
 
 i.browi.firefox-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1334,49 +1334,49 @@ i.browi.firefox-dev {
 }
 
 i.browi.firefox-dev-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-dev-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-dev-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-dev-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-dev-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-dev-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-dev-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-dev-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1389,49 +1389,49 @@ i.browi.firefox-beta {
 }
 
 i.browi.firefox-beta-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-beta-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-beta-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-beta-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-beta-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-beta-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-beta-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-beta-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1444,49 +1444,49 @@ i.browi.firefox-canary {
 }
 
 i.browi.firefox-canary-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-canary-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-canary-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-canary-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-canary-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-canary-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-canary-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.firefox-canary-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1499,49 +1499,49 @@ i.browi.ie {
 }
 
 i.browi.ie-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/archive/internet-explorer_9-11_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1554,49 +1554,49 @@ i.browi.ie-tile {
 }
 
 i.browi.ie-tile-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-tile-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-tile-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-tile-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-tile-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-tile-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-tile-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.ie-tile-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_tile_10-11/archive/internet-explorer_tile_10-11_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
@@ -1609,49 +1609,49 @@ i.browi.netscape-navigator {
 }
 
 i.browi.netscape-navigator-16 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_16x16.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_16x16.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.netscape-navigator-24 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_24x24.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_24x24.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.netscape-navigator-32 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_32x32.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_32x32.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.netscape-navigator-48 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_48x48.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_48x48.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.netscape-navigator-64 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_64x64.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_64x64.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.netscape-navigator-128 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_128x128.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_128x128.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.netscape-navigator-256 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_256x256.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_256x256.png");
   vertical-align: middle;
   display: absolute;
 }
 
 i.browi.netscape-navigator-512 {
-  content: url(https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_512x512.png);
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_512x512.png");
   vertical-align: middle;
   display: absolute;
 }
