@@ -32,18 +32,18 @@ $browser-data: (
   "edge-beta": ("name": "Microsoft Edge (Beta)", "iconpath": "edge-beta"),
   "edge-canary": ("name": "Microsoft Edge (Canary)", "iconpath": "edge-canary"),
   "edge-old": ("name": "Microsoft Edge", "iconpath": "edge"),
-  "edge-old-tile": ("name": "Microsoft Edge (old, Tile)", "iconpath": "archive/edge_tile"),
+  "edge-old-tile": ("name": "Microsoft Edge (old, Tile)", "iconpath": "edge-tile", "archive": "true"),
   "safari": ("name": "Safari", "iconpath": "safari"),
-  "safari-new": ("name": "Safari (New)", "iconpath": "archive/safari_8-13"),
-  "safari-old": ("name": "Safari (Old)", "iconpath": "archive/safari_1-7"),
-  "safari-ios-old": ("name": "Safari (IOS, Old)", "iconpath": "archive/safari-ios_1-6"),
+  "safari-new": ("name": "Safari (New)", "iconpath": "safari_8-13", "archive": "true"),
+  "safari-old": ("name": "Safari (Old)", "iconpath": "safari_1-7", "archive": "true"),
+  "safari-ios-old": ("name": "Safari (IOS, Old)", "iconpath": "safari-ios_1-6", "archive": "true"),
   "firefox": ("name": "Firefox", "iconpath": "firefox"),
   "firefox-dev": ("name": "Firefox (Dev)", "iconpath": "firefox-dev"),
   "firefox-beta": ("name": "Firefox (Beta)", "iconpath": "firefox-beta"),
   "firefox-canary": ("name": "Firefox (Canary)", "iconpath": "firefox-canary"),
-  "ie": ("name": "Internet Explorer (Old)", "iconpath": "archive/internet-explorer_9-11"),
-  "ie-tile": ("name": "Internet Explorer", "iconpath": "archive/internet-explorer_tile_10-11"),
-  "netscape-navigator": ("name": "Netscape Navigator", "iconpath": "archive/netscape_4-6", "uf": "true", "ufi": "netscape_4-6"),
+  "ie": ("name": "Internet Explorer (Old)", "iconpath": "internet-explorer_9-11", "archive": "true"),
+  "ie-tile": ("name": "Internet Explorer", "iconpath": "internet-explorer-tile_10-11", "archive": "true"),
+  "netscape-navigator": ("name": "Netscape Navigator", "iconpath": "netscape_4-6", "archive": "true"),
   "opera": ("name": "Opera", "iconpath": "opera"),
   "opera-gx": ("name": "Opera (GX)", "iconpath": "opera-gx"),
   "opera-dev": ("name": "Opera (Developer)", "iconpath": "opera-developer"),
@@ -59,8 +59,8 @@ $browser-data: (
     
     $url-path: "#{$cdn-url}/#{$icon-path}/#{$icon-path}";
     
-    @if map-has-key($data, "uf") and map-get($data, "uf") == "true" {
-        $url-path: "#{$cdn-url}/#{$icon-path}/#{map-get($data, "ufi")}";
+    @if map-has-key($data, "archive") and map-get($data, "archive") == "true" {
+        $url-path: "#{$cdn-url}/archive/#{$icon-path}/#{$icon-path}";
     }
     
     /*#{$browser}*/
