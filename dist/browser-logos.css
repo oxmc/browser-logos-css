@@ -1656,6 +1656,61 @@ i.browi.netscape-navigator-512 {
   display: absolute;
 }
 
+/*samsung-internet*/
+i.browi.samsung-internet {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-16 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_16x16.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-24 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_24x24.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-32 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_32x32.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-48 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_48x48.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-64 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_64x64.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-128 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_128x128.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-256 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_256x256.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
+i.browi.samsung-internet-512 {
+  content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_512x512.png");
+  vertical-align: middle;
+  display: absolute;
+}
+
 /*opera*/
 i.browi.opera {
   content: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera/opera_32x32.png");
