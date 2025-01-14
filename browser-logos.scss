@@ -71,7 +71,7 @@ $browser-data: (
         display: absolute;
     }
 
-    browi-bg.#{$browser} {
+    .browi-bg.#{$browser} {
         background-image: url('#{$url-path}_32x32.png');
     }
     
