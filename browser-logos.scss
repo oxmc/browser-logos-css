@@ -70,6 +70,10 @@ $browser-data: (
         vertical-align: middle;
         display: absolute;
     }
+
+    browi-bg.#{$browser} {
+        background-image: url('#{$url-path}_32x32.png');
+    }
     
     @each $size in $icon-sizes {
         i.browi.#{$browser}-#{$size} {
