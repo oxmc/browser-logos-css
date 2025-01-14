@@ -15,6 +15,9 @@ i.browi.chrome {
 
 .browi-bg.chrome {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome/chrome_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.chrome-16 {
@@ -74,6 +77,9 @@ i.browi.chrome-dev {
 
 .browi-bg.chrome-dev {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-dev/chrome-dev_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.chrome-dev-16 {
@@ -133,6 +139,9 @@ i.browi.chrome-beta {
 
 .browi-bg.chrome-beta {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-beta/chrome-beta_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.chrome-beta-16 {
@@ -192,6 +201,9 @@ i.browi.chrome-canary {
 
 .browi-bg.chrome-canary {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chrome-canary/chrome-canary_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.chrome-canary-16 {
@@ -251,6 +263,9 @@ i.browi.chromium {
 
 .browi-bg.chromium {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/chromium/chromium_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.chromium-16 {
@@ -310,6 +325,9 @@ i.browi.android-webview {
 
 .browi-bg.android-webview {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview/android-webview_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.android-webview-16 {
@@ -369,6 +387,9 @@ i.browi.android-webview-dev {
 
 .browi-bg.android-webview-dev {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-dev/android-webview-dev_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.android-webview-dev-16 {
@@ -428,6 +449,9 @@ i.browi.android-webview-beta {
 
 .browi-bg.android-webview-beta {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-beta/android-webview-beta_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.android-webview-beta-16 {
@@ -487,6 +511,9 @@ i.browi.android-webview-canary {
 
 .browi-bg.android-webview-canary {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/android-webview-canary/android-webview-canary_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.android-webview-canary-16 {
@@ -546,6 +573,9 @@ i.browi.brave {
 
 .browi-bg.brave {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave/brave_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.brave-16 {
@@ -605,6 +635,9 @@ i.browi.brave-dev {
 
 .browi-bg.brave-dev {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-dev/brave-dev_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.brave-dev-16 {
@@ -664,6 +697,9 @@ i.browi.brave-beta {
 
 .browi-bg.brave-beta {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-beta/brave-beta_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.brave-beta-16 {
@@ -723,6 +759,9 @@ i.browi.brave-canary {
 
 .browi-bg.brave-canary {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/brave-canary/brave-canary_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.brave-canary-16 {
@@ -782,6 +821,9 @@ i.browi.edge {
 
 .browi-bg.edge {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.edge-16 {
@@ -841,6 +883,9 @@ i.browi.edge-dev {
 
 .browi-bg.edge-dev {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-dev/edge-dev_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.edge-dev-16 {
@@ -900,6 +945,9 @@ i.browi.edge-beta {
 
 .browi-bg.edge-beta {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-beta/edge-beta_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.edge-beta-16 {
@@ -959,6 +1007,9 @@ i.browi.edge-canary {
 
 .browi-bg.edge-canary {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge-canary/edge-canary_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.edge-canary-16 {
@@ -1018,6 +1069,9 @@ i.browi.edge-old {
 
 .browi-bg.edge-old {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/edge/edge_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.edge-old-16 {
@@ -1077,6 +1131,9 @@ i.browi.edge-old-tile {
 
 .browi-bg.edge-old-tile {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/edge-tile/edge-tile_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.edge-old-tile-16 {
@@ -1136,6 +1193,9 @@ i.browi.safari {
 
 .browi-bg.safari {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/safari/safari_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.safari-16 {
@@ -1195,6 +1255,9 @@ i.browi.safari-new {
 
 .browi-bg.safari-new {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_8-13/safari_8-13_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.safari-new-16 {
@@ -1254,6 +1317,9 @@ i.browi.safari-old {
 
 .browi-bg.safari-old {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari_1-7/safari_1-7_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.safari-old-16 {
@@ -1313,6 +1379,9 @@ i.browi.safari-ios-old {
 
 .browi-bg.safari-ios-old {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/safari-ios_1-6/safari-ios_1-6_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.safari-ios-old-16 {
@@ -1372,6 +1441,9 @@ i.browi.firefox {
 
 .browi-bg.firefox {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox/firefox_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.firefox-16 {
@@ -1431,6 +1503,9 @@ i.browi.firefox-dev {
 
 .browi-bg.firefox-dev {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-dev/firefox-dev_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.firefox-dev-16 {
@@ -1490,6 +1565,9 @@ i.browi.firefox-beta {
 
 .browi-bg.firefox-beta {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-beta/firefox-beta_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.firefox-beta-16 {
@@ -1549,6 +1627,9 @@ i.browi.firefox-canary {
 
 .browi-bg.firefox-canary {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/firefox-canary/firefox-canary_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.firefox-canary-16 {
@@ -1608,6 +1689,9 @@ i.browi.ie {
 
 .browi-bg.ie {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.ie-16 {
@@ -1667,6 +1751,9 @@ i.browi.ie-tile {
 
 .browi-bg.ie-tile {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/internet-explorer-tile_10-11/internet-explorer-tile_10-11_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.ie-tile-16 {
@@ -1726,6 +1813,9 @@ i.browi.netscape-navigator {
 
 .browi-bg.netscape-navigator {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/archive/netscape_4-6/netscape_4-6_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.netscape-navigator-16 {
@@ -1785,6 +1875,9 @@ i.browi.samsung-internet {
 
 .browi-bg.samsung-internet {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/samsung-internet/samsung-internet_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.samsung-internet-16 {
@@ -1844,6 +1937,9 @@ i.browi.opera {
 
 .browi-bg.opera {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera/opera_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.opera-16 {
@@ -1903,6 +1999,9 @@ i.browi.opera-gx {
 
 .browi-bg.opera-gx {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-gx/opera-gx_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.opera-gx-16 {
@@ -1962,6 +2061,9 @@ i.browi.opera-dev {
 
 .browi-bg.opera-dev {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-developer/opera-developer_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.opera-dev-16 {
@@ -2021,6 +2123,9 @@ i.browi.opera-neon {
 
 .browi-bg.opera-neon {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-neon/opera-neon_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.opera-neon-16 {
@@ -2080,6 +2185,9 @@ i.browi.opera-mini {
 
 .browi-bg.opera-mini {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-mini/opera-mini_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.opera-mini-16 {
@@ -2139,6 +2247,9 @@ i.browi.opera-mini-beta {
 
 .browi-bg.opera-mini-beta {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-mini-beta/opera-mini-beta_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.opera-mini-beta-16 {
@@ -2198,6 +2309,9 @@ i.browi.opera-mini-touch {
 
 .browi-bg.opera-mini-touch {
   background-image: url("https://cdnjs.cloudflare.com/ajax/libs/browser-logos/73.0.0/opera-touch/opera-touch_32x32.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 i.browi.opera-mini-touch-16 {
