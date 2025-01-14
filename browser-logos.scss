@@ -72,7 +72,7 @@ $browser-data: (
     }
 
     .browi-bg.#{$browser} {
-        background-image: url('#{$url-path}_32x32.png');
+        background-image: url('#{$url-path}_256x256.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
